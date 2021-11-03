@@ -1,4 +1,4 @@
-package br.com.conexao.beans;
+package br.com.conexao.conexao.beans;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
